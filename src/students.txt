@@ -1,0 +1,17 @@
+101,John,20,Java
+102,Ravi,21,Python
+103,Priya,22,Full stack
+104,venkat,10,php
+105,Pooja,24,Data
+107,venkat2,23,Phyton
+108,gen,22,Java
+109,venkat,23,Phyton
+110,ben,12,Java
+112,nat,55,Full Stack
+113,raju,12,Java
+114,mango,22,Java
+115,ramasamy,44,Full Stack
+116,batha,44,Java
+117,venkat,27,Java
+120,venkat,23,Python
+121,jam,21,Data Analyst
